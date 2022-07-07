@@ -10,3 +10,5 @@
 * [객체](javascript/object.md)
 * [원시 값과 객체의 비교](javascript/comparsion_of_primitive_value_and_object.md)
 * [함수](javascript/function.md)
+* [스코프](javascript/scope.md)
+* 
