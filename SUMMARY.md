@@ -8,7 +8,7 @@
 * [데이터 타입](javascript/data_type.md)
 * [타입 변환](javascript/type_conversion.md)
 * [객체](javascript/object.md)
-* [원시 값과 객체의 비교](javascript/comparsion_of_primitive_value_and_object.md)
+* [원시 값과 객체의 비교](javascript/comparison_of_primitive_values_and_objects.md)
 * [함수](javascript/function.md)
 * [스코프](javascript/scope.md)
-* 
+* [전역 변수의 문제점](javascript/the_problem_with_global_variables.md)
