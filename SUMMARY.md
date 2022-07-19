@@ -18,4 +18,4 @@
 * [함수와 일급 객체](/javascript/function_and_first_class_object.md)
 * [프로토타입](/javascript/prototype.md)
 * [strict mode](/javascript/strict_mode.md)
-  
+* [빌트인 객체](/javascript/built_in_object.md)
