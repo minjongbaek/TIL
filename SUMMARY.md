@@ -17,3 +17,5 @@
 * [생성자 함수에 의한 객체 생성](/javascript/object_created_by_constructor_function.md)
 * [함수와 일급 객체](/javascript/function_and_first_class_object.md)
 * [프로토타입](/javascript/prototype.md)
+* [strict mode](/javascript/strict_mode.md)
+  
