@@ -22,7 +22,7 @@ console.log(typeof numObj); // object (생성자 함수로 호출한 인스턴�
 console.log(numObj.toFixed()); // 2 (Number.prototype 메서드 호출)
 
 console.log(Number.isInteger(0.5)) // false(Number 정적 메서드 호출)
-``
+```
 
 ## 원시값과 래퍼 객체
 
