@@ -21,4 +21,4 @@
 * [빌트인 객체](/javascript/built_in_object.md)
 * [this](/javascript/this.md)
 * [클로저](/javascript/closure.md)
-  
+* [클래스](/javascript/class.md)
