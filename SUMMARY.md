@@ -22,3 +22,5 @@
 * [this](/javascript/this.md)
 * [클로저](/javascript/closure.md)
 * [클래스](/javascript/class.md)
+* [ES6 함수의 추가 기능](/javascript/es6_function.md)
+  
